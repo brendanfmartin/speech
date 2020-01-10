@@ -23,7 +23,7 @@
 		- Phillies
 		- Union
 		- 76ers end 4/15
-	Acquarium
+	Aquarium
 	Casino
 	Concert
 	Strip club
