@@ -56,6 +56,6 @@
 	- Rittenhouse?
 	- (will probably depend on the location of what we want to do)
 
-Dates:
+## Dates:
 
-Fri - Sun
+	Fri - Sun
