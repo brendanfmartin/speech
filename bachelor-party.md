@@ -12,7 +12,7 @@
 	- Myles
 	- Pete
 	- Ant
-	- other kid from LA
+	- Elliot
 	- Eric
 	- Axel
 
